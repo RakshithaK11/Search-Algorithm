@@ -5,6 +5,7 @@ To write a program to perform linear search and binary search using python progr
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
+
 ## Linear Search:
 1.	Start from the leftmost element of array[] and compare k with each element of array[] one by one.
 2.	If k matches with an element in array[] , return the index.
@@ -100,14 +101,15 @@ else:
     print("Element found at index: ",result)
 ~~~
 ## Sample Input and Output
-![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/406be13b-5e87-41ca-b12c-8a9a37ba7412)
-![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/593a7555-82fa-41f5-9300-ba86e0d0990d)
-![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/07395b0e-840a-4e40-ad72-ae5d05a7cdd7)
-
-
-
-
-
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/a7ad3bac-6a10-4f77-a7b5-151530cdc6a4)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/108fef13-6cd9-4748-ba67-92298787c1b2)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/a6039b0a-7b3e-444b-bc8f-b215ecac7de9)
+## Output
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/8909826e-20bc-41e7-a0df-0eb054256da2)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/f9696a2c-7321-42cb-ace0-71a0a9087f34)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/c56c02da-d40b-4a42-bfdd-a60f9395f8db)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/eb3f9f60-dd52-4f2f-95b6-a42b7bbee709)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/6feb56a9-deb1-41ec-8e13-7f91decea46d)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
