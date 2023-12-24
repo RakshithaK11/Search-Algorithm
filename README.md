@@ -105,14 +105,5 @@ else:
 ![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/351ef4a5-c0c2-430c-b5f5-8aa06ed4e9fd)
 
 
-
-
-
-
-
-
-
-
-
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
