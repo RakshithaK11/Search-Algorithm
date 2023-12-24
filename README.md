@@ -100,9 +100,13 @@ else:
     print("Element found at index: ",result)
 ~~~
 ## Sample Input and Output
-![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/ba579da5-f201-4552-b7d1-09e04ffd6e3d)
-![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/d0430525-c8e9-4f52-b9c9-71cf9d128eeb)
-![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/351ef4a5-c0c2-430c-b5f5-8aa06ed4e9fd)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/406be13b-5e87-41ca-b12c-8a9a37ba7412)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/593a7555-82fa-41f5-9300-ba86e0d0990d)
+![image](https://github.com/RakshithaK11/Search-Algorithm/assets/139336455/07395b0e-840a-4e40-ad72-ae5d05a7cdd7)
+
+
+
+
 
 
 ## Result
